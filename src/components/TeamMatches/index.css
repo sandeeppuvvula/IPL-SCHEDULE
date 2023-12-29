@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.team-match-background-container {
+    background-color: lightGray;
+    background-size: cover;
+    padding: 20px;
+    font-family: Bree Serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .team-banner {
+    width: 100%;
+  }
+  
+  .recent-matches-flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 40px;
+  }
+  

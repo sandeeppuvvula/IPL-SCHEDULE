@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.recent-match-item {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    background-color: #1e293b;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  

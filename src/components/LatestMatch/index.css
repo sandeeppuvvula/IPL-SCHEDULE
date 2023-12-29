@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.card {
+    width: 100%;
+    background-color: #1e293b;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .latest-match-item {
+    display: flex;
+    flex-direction: column;
+  }
+  .latest-competing-team-logo {
+    height: 80px;
+  }
+  
